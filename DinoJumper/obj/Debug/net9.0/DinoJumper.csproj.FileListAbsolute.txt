@@ -1,0 +1,14 @@
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\bin\Debug\net9.0\DinoJumper.exe
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\bin\Debug\net9.0\DinoJumper.deps.json
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\bin\Debug\net9.0\DinoJumper.runtimeconfig.json
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\bin\Debug\net9.0\DinoJumper.dll
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\bin\Debug\net9.0\DinoJumper.pdb
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\obj\Debug\net9.0\DinoJumper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\obj\Debug\net9.0\DinoJumper.AssemblyInfoInputs.cache
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\obj\Debug\net9.0\DinoJumper.AssemblyInfo.cs
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\obj\Debug\net9.0\DinoJumper.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\obj\Debug\net9.0\DinoJumper.dll
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\obj\Debug\net9.0\refint\DinoJumper.dll
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\obj\Debug\net9.0\DinoJumper.pdb
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\obj\Debug\net9.0\DinoJumper.genruntimeconfig.cache
+C:\Users\Joseph\Desktop\Hola Dino\DinoJumper\DinoJumper\obj\Debug\net9.0\ref\DinoJumper.dll
