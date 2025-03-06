@@ -2,6 +2,8 @@
 
 **DinoJump** es una aplicación de consola escrita en C# con .NET 9 que permite saltar automáticamente el dinosaurio en el juego de Google Chrome que aparece cuando no hay conexión a Internet (o yendo a **crhome://dino**).Esta herramienta está diseñada para evitar la necesidad de interactuar manualmente con el juego y permite disfrutar del reto sin tener que presionar constantemente la tecla de salto.
 
+![dino](https://github.com/user-attachments/assets/657748f7-3dfb-4cd3-96e3-9a8f8e68502b)
+
 ¡Usa el mouse como sensor para detectar los cactus!
 
 ## Características
